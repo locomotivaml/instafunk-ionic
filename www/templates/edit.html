@@ -1,0 +1,58 @@
+<ion-view>
+  <ion-pane class="edit">
+
+    <ion-header-bar class="bar-default">
+      <button class="button button-back" ng-click="resetProgress()"></button>
+      <h1 class="title"></h1>
+      <button class="button button-secondary" ng-click="clearStickers()">apagar adesivos</button>
+    </ion-header-bar>
+
+    <ion-content scroll="false">
+
+      <div class="canvas-wrapper">
+        <canvas id="photoCanvas" class="edit-canvas base-canvas"></canvas>
+      </div>
+
+      <div class="sticker-controllers row ng-hide" id="stickerControls">
+        <div class="col">
+          <button class="button button-trash" ng-click="deleteSticker()">
+            APAGAR
+          </button>
+        </div>
+        <div class="col">
+          <button class="button button-backward" ng-click="sendBackSticker()">
+            TRÁS
+          </button>
+        </div>
+        <div class="col">
+          <button class="button button-flip" ng-click="flipSticker()">
+            INVERTER
+          </button>
+        </div>
+        <div class="col">
+          <button class="button button-secondary button-done" ng-click="doneSticker()">
+            OK
+          </button>
+        </div>
+      </div>
+
+      <div class="edit-navigation row" id="screenControls">
+        <div class="col col-33">
+          <button class="button" ng-click="savePhoto()" id="savePhotoButton">
+            SALVAR FOTO
+          </button>
+
+        </div>
+        <div class="col col-33">
+          <button class="button-add-stickers" ng-click="openGallery()"></button>
+        </div>
+        <div class="col col-33">
+          <button class="button" ng-click="shareNative()">
+            COMPARTILHAR
+          </button>
+        </div>
+      </div>
+
+    </ion-content>
+  </ion-pane>
+</ion-view>

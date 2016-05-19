@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="instafunk-crop" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -31.000000)" fill="#FFFFFF">
+            <path d="M35.715,37.28925 L29.715,31.29325 C29.324,30.90225 28.689,30.90225 28.298,31.29325 C27.907,31.68425 27.907,32.31825 28.298,32.71025 L32.591,37.00025 L21.001,37.00025 C20.448,37.00025 20,37.44825 20,38.00025 C20,38.55225 20.448,39.00025 21.001,39.00025 L32.591,39.00025 L28.299,43.29025 C27.908,43.68125 27.908,44.31525 28.3,44.70725 C28.692,45.09925 29.326,45.09825 29.717,44.70725 L35.717,38.71025 C35.913,38.51425 36.011,38.25725 36.011,38.00025 C36.011,37.74325 35.914,37.48625 35.717,37.29025 L35.715,37.28925 Z" id="icon-arrow-left" sketch:type="MSShapeGroup" transform="translate(28.005500, 38.000438) scale(-1, 1) translate(-28.005500, -38.000438) "></path>
+        </g>
+    </g>
+</svg>

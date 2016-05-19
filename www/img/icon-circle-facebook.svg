@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="61px" height="62px" viewBox="0 0 61 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-circle-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="instafunk-share-copy-3" sketch:type="MSArtboardGroup" transform="translate(-41.000000, -337.000000)">
+            <g id="icon-circle-facebook" sketch:type="MSLayerGroup" transform="translate(41.086957, 337.000000)">
+                <g id="Oval-1-+-+" fill="#3E47B3" sketch:type="MSShapeGroup">
+                    <path d="M30.4347826,61.5217391 C47.2434489,61.5217391 60.8695652,47.7496287 60.8695652,30.7608696 C60.8695652,13.7721104 47.2434489,0 30.4347826,0 C13.6261163,0 0,13.7721104 0,30.7608696 C0,47.7496287 13.6261163,61.5217391 30.4347826,61.5217391 Z" id="Oval-1"></path>
+                </g>
+                <path d="M35.0234114,21.6667734 L35.0234114,24.5949716 L33.3005686,24.5949716 C32.6712709,24.5949716 32.2468227,24.7279532 32.0272241,24.9939164 C31.8076254,25.2598796 31.6978261,25.659061 31.6978261,26.1914607 L31.6978261,28.2876957 L34.9131438,28.2876957 L34.4854181,31.5708269 L31.6978261,31.5708269 L31.6978261,39.9891304 L28.3399331,39.9891304 L28.3399331,31.5708269 L25.541806,31.5708269 L25.541806,28.2876957 L28.3399331,28.2876957 L28.3399331,25.8698913 C28.3399331,24.4946438 28.7203679,23.4279515 29.4812375,22.6698144 C30.242107,21.9116773 31.2553512,21.5326087 32.5209699,21.5326087 C33.5964883,21.5326087 34.4306355,21.576857 35.0234114,21.6653537 L35.0234114,21.6667734 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

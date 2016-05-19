@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="instafunk-edit-copy" sketch:type="MSArtboardGroup" transform="translate(-112.000000, -426.000000)" fill="#FFFFFF">
+            <path d="M126.709938,433.28925 L120.709938,427.29325 C120.318938,426.90225 119.683938,426.90225 119.292938,427.29325 C118.901938,427.68425 118.901938,428.31825 119.292938,428.71025 L123.585938,433.00025 L111.995938,433.00025 C111.442938,433.00025 110.994938,433.44825 110.994938,434.00025 C110.994938,434.55225 111.442938,435.00025 111.995938,435.00025 L123.585938,435.00025 L119.293938,439.29025 C118.902938,439.68125 118.902938,440.31525 119.294938,440.70725 C119.686938,441.09925 120.320938,441.09825 120.711938,440.70725 L126.711938,434.71025 C126.907938,434.51425 127.005938,434.25725 127.005938,434.00025 C127.005938,433.74325 126.908938,433.48625 126.711938,433.29025 L126.709938,433.28925 Z" id="icon-back" sketch:type="MSShapeGroup" transform="translate(119.000438, 434.000438) rotate(-270.000000) translate(-119.000438, -434.000438) "></path>
+        </g>
+    </g>
+</svg>

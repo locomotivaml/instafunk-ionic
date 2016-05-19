@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "title": "Todos Adesivos",
+    "tagline": "",
+    "url": "",
+    "stickers": [
+    {
+      "id": 1,
+      "title": "Boné Onda Forte",
+      "url": "img/gallery/bone_onda_forte.png",
+      "thumb": "img/gallery/thumb/bone_onda_forte.png"
+    },
+    {
+      "id": 2,
+      "title": "Boné Vida Loka",
+      "url": "img/gallery/bone_vidaloka.png",
+      "thumb": "img/gallery/thumb/bone_vidaloka.png"
+    },
+    {
+      "id": 3,
+      "title": "Óculos MC Binladen",
+      "url": "img/gallery/oculos_mc_binladen.png",
+      "thumb": "img/gallery/thumb/oculos_mc_binladen.png"
+    },
+    {
+      "id": 4,
+      "title": "Óculos Dourado",
+      "url": "img/gallery/oculos_dourado.png",
+      "thumb": "img/gallery/thumb/oculos_dourado.png"
+    },
+    {
+      "id": 5,
+      "title": "Relógio Ostentação",
+      "url": "img/gallery/relogio_ostentacao.png",
+      "thumb": "img/gallery/thumb/relogio_ostentacao.png"
+    },
+    {
+      "id": 6,
+      "title": "Colar Ostentação",
+      "url": "img/gallery/colar_ostentacao.png",
+      "thumb": "img/gallery/thumb/colar_ostentacao.png"
+    },
+    {
+      "id": 7,
+      "title": "Baseado Normal",
+      "url": "img/gallery/baseado_normal.png",
+      "thumb": "img/gallery/thumb/baseado_normal.png"
+    },
+    {
+      "id": 8,
+      "title": "Baseado Dourado",
+      "url": "img/gallery/baseado_dourado.png",
+      "thumb": "img/gallery/thumb/baseado_dourado.png"
+    },
+    {
+      "id": 9,
+      "title": "Anel Dourado",
+      "url": "img/gallery/anel_dourado.png",
+      "thumb": "img/gallery/thumb/anel_dourado.png"
+    },
+    {
+      "id": 10,
+      "title": "Plaque de 100",
+      "url": "img/gallery/plaque_de_100.png",
+      "thumb": "img/gallery/thumb/plaque_de_100.png"
+    },
+    {
+      "id": 11,
+      "title": "Cabelo MC Brinquedo",
+      "url": "img/gallery/cabelo_mc_brinquedo.png",
+      "thumb": "img/gallery/thumb/cabelo_mc_brinquedo.png"
+    },
+    {
+      "id": 12,
+      "title": "Cabelo MC Binladen",
+      "url": "img/gallery/cabelo_mc_binladen.png",
+      "thumb": "img/gallery/thumb/cabelo_mc_binladen.png"
+    },
+    {
+      "id": 13,
+      "title": "Bed Rull",
+      "url": "img/gallery/bed_rull.png",
+      "thumb": "img/gallery/thumb/bed_rull.png"
+    },
+    {
+      "id": 14,
+      "title": "Chandom",
+      "url": "img/gallery/chandom.png",
+      "thumb": "img/gallery/thumb/chandom.png"
+    },
+    {
+      "id": 15,
+      "title": "Meça suas selfie, parça",
+      "url": "img/gallery/selfie_parca.png",
+      "thumb": "img/gallery/thumb/selfie_parca.png"
+    },
+    {
+      "id": 16,
+      "title": "Sobrancelha Chavosa",
+      "url": "img/gallery/sobrancelha_chavosa.png",
+      "thumb": "img/gallery/thumb/sobrancelha_chavosa.png"
+    },
+    {
+      "id": 17,
+      "title": "Terno MC Brinquedo",
+      "url": "img/gallery/terno_mc_brinquedo.png",
+      "thumb": "img/gallery/thumb/terno_mc_brinquedo.png"
+    },
+    {
+      "id": 18,
+      "title": "Terno MC Binladen",
+      "url": "img/gallery/terno_mc_binladen.png",
+      "thumb": "img/gallery/thumb/terno_mc_binladen.png"
+    }
+
+
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+<ion-view class="crop-view">
+  <ion-pane class="crop">
+
+    <ion-header-bar align-title="left" class="bar-default">
+      <div class="buttons">
+        <button class="button button-back" ui-sref="home"></button>
+      </div>
+    </ion-header-bar>
+
+    <ion-content scroll="false">
+
+      <div class="canvas-wrapper">
+        <canvas id="cropCanvas" class="crop-canvas base-canvas"></canvas>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <p class="helper-text">Aju$te o enquadramento da $ua foto</p>
+          <button class="button button-block" ng-click="renderCanvas()">
+            PRONTO! VAMO LÁ
+          </button>
+        </div>
+      </div>
+
+    </ion-content>
+
+  </ion-pane>
+</ion-view>

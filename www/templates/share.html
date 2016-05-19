@@ -1,0 +1,26 @@
+<ion-view>
+  <ion-pane class="share">
+    <ion-header-bar class="bar-default">
+      <div class="buttons">
+        <button class="button button-back" ui-sref="edit"></button>
+      </div>
+      <h1 class="title">COMPARTILHAR</h1>
+    </ion-header-bar>
+    <ion-content scroll="false">
+
+      <div class="row">
+        <div class="col">
+          <div class="polaroid-photo">
+            <img ng-src="{{ imagePreview }}" class="fit-image">
+            <button class="button button-block" ng-click="shareNative()">COMPARTILHAR</button>
+          </div>
+        </div>
+      </div>
+
+
+      <br>
+      <a ui-sref="success">go to success</a>
+
+    </ion-content>
+  </ion-pane>
+</ion-view>

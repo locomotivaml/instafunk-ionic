@@ -1,0 +1,46 @@
+<ion-view>
+  <ion-pane class="success">
+    <ion-content scroll="false">
+      
+      <div class="row">
+        <div class="col">
+          <h1 class="success-text">COMPARTILHADO!</h1>  
+        </div>
+      </div>
+
+      <div class="polaroid-photo">
+        <img ng-src="{{ imagePreview }}" class="fit-image">
+      </div>
+
+
+      <div class="row success-actions">
+        <div class="col-50">
+          <button class="button button-block button-share-again" ng-click="shareNative()">COMPARTILHAR DENOVO</button>
+        </div>
+        <div class="col-50">
+          <button class="button button-block button-again" ng-click="startOver()">OSTENTAR OUTRA FOTO</button>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <p class="helper-text">CURTA O <strong>INSTAFUNK</strong> NAS REDES SOCIAIS</p>
+          <div class="share">
+            <a href="fb://profile/891563384238749/" target="_system" class="share-facebook">
+              FACEBOOK
+            </a>
+            <a href="instagram://user?username=instafunkapp" target="_system" class="share-instagram">
+              INSTAGRAM
+            </a>
+            <a href="twitter://user?screen_name=instafunkapp" target="_system" class="share-twitter">
+              TWITTER
+            </a>
+          </div>
+        </div>
+      </div>
+
+
+    </ion-content>
+
+  </ion-pane>
+</ion-view>

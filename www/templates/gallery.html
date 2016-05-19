@@ -1,0 +1,22 @@
+<div class="modal gallery" ng-controller="GalleryCtrl">
+  <ion-header-bar>
+    <div class="buttons">
+      <button class="button button-close-modal" ng-click="closeGallery()"></button>
+    </div>
+    <h1 class="title">Galeria de Adesivos</h1>
+  </ion-header-bar>
+  <ion-content>
+    <p class="helper-text">
+      ESCOLHA UM ADE$IVO ABAIXO PARA ADICIONAR NA $UA FOTO.
+    </p>
+    <div class="list card" ng-repeat="p in packs">
+      <div class="item item-body">
+        <div class="sticker-list">
+          <div class="sticker-block" ng-repeat="s in p.stickers">
+            <img ng-src="{{ s.thumb }}" alt="{{ s.title }}" class="fit-image" ng-click="addSticker(s.url, s.title)">
+          </div>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</div>

@@ -1,0 +1,24 @@
+<ion-view>
+  <ion-pane class="home">
+    <ion-content scroll="false">
+
+      <div class="social-bar">
+        <span>SIGA O <strong>INSTAFUNK</strong></span>
+        <a href="fb://profile/891563384238749" target="_system" class="icon facebook"></a>
+        <a href="twitter://user?screen_name=instafunkapp" class="icon twitter" target="_system"></a>
+        <a href="instagram://user?username=instafunkapp" class="icon instagram" target="_system"></a>
+      </div>
+
+      <div class="logo-home"></div>
+
+      <div class="main-action">
+        <button class="button button-square camera" ng-click="takePicture(1)">CAMERA</button>
+        <button class="button button-square library" ng-click="takePicture(0)">ESCOLHER</button>
+      </div>
+
+      <br>
+      <!-- <a ui-sref="crop({selectedImage: 'img/example-vertical.jpg'})" class="button">FOTO EXEMPLO</a> -->
+
+    </ion-content>
+  </ion-pane>
+</ion-view>
